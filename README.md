@@ -1,2 +1,2 @@
 # ceKim
-abcefgh
+Typescript Basic with Nicolas.
